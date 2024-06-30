@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .circle{
+        border-radius: 50px;
+    }
+    
+}
+/* .section-image{
+    @apply relative
+}
+
+.section-image:before {
+    @apply absolute inset-x-0 w-full h-full
+    content: "";
+    background: #20453F;
+    background-image: url('../images/Background-Image/Masjid.svg');
+
+} */
